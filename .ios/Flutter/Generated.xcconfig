@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/koofrank/flutter
-FLUTTER_APPLICATION_PATH=/Users/koofrank/Documents/CybexDex/cybex_flutter
-FLUTTER_TARGET=/Users/koofrank/Documents/CybexDex/cybex_flutter/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/koofrank/Documents/CybexDex/cybex-ios/cybex_flutter
+FLUTTER_TARGET=/Users/koofrank/Documents/CybexDex/cybex-ios/cybex_flutter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_BUILD_NAME=1.0.0
